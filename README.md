@@ -83,4 +83,4 @@ postQueue.add("newPost", { content: "Hello, world!", platform: "Twitter" }, { de
 Pull requests are welcome! Please open an issue for discussions before submitting major changes.
 
 ---
-Made with ❤️ by [Your Name]
+Made with ❤️ by Robert Austin
